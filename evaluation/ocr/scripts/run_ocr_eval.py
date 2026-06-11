@@ -174,10 +174,27 @@ def main():
         total_sim = sum(r["sim"] for r in results.values())
         n = len(results)
         
+        # --- GHI RA FILE TXT ĐỂ DỄ DÀNG COPY/PASTE VÀ ĐÁNH GIÁ ---
+        txt_report_file = Path("evaluation/ocr/eval_report.txt")
+        with open(txt_report_file, "w", encoding="utf-8") as f:
+            f.write("BÁO CÁO ĐÁNH GIÁ CHI TIẾT TỪNG ẢNH\n")
+            f.write("="*80 + "\n")
+            for img_id, r in results.items():
+                f.write(f"[{img_id}] | CER: {r['cer']:.3f} | WER: {r['wer']:.3f} | Sim: {r['sim']:.2%}\n")
+            
+            f.write("\n" + "="*80 + "\n")
+            f.write("TỔNG KẾT ĐÁNH GIÁ\n")
+            f.write("="*80 + "\n")
+            f.write(f"Tổng số file đã hoàn thành : {n}\n")
+            f.write(f"CER trung bình toàn tập    : {total_cer/n:.3f}\n")
+            f.write(f"WER trung bình toàn tập    : {total_wer/n:.3f}\n")
+            f.write(f"Độ tương đồng (Fuzz Ratio) : {total_sim/n:.2%}\n")
+
         print(f"Tổng số file đã hoàn thành : {n}")
         print(f"CER trung bình toàn tập    : {total_cer/n:.3f}")
         print(f"WER trung bình toàn tập    : {total_wer/n:.3f}")
         print(f"Độ tương đồng (Fuzz Ratio) : {total_sim/n:.2%}")
+        print(f"\n📁 Đã lưu file báo cáo chi tiết để anh copy tại: {txt_report_file}")
     else:
         print("Chưa có kết quả nào được ghi nhận.")
 
