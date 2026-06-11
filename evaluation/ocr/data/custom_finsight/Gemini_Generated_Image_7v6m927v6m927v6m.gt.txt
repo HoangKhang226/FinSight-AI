@@ -1,0 +1,34 @@
+CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ ABC
+MET: 0101713435
+Địa chỉ: Số 68 phố
+Điện thoại: 024
+
+Mẫu số: 01GTKT0/001
+Ký hiệu: BM/24E
+Số: 0000123
+
+HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+(VAT INVOICE)
+Ngày (date) 20 tháng (month) 05 năm (year) 2024
+
+Họ tên người mua hàng (Customer): Công ty Cổ phần ABC
+Tên đơn vị (Company name): Công ty Cổ phần ABC
+Mã số thuế (Tax code): 0109876543
+Địa chỉ (Address): Số 68 phố Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Hà Nội
+Hình thức thanh toán (Payment method): Chuyển khoản
+Số tài khoản (Account No): 123456789 tại Vietcombank
+
+| STT (No.) | Tên hàng hóa, dịch vụ (Description) | ĐVT (Unit) | Số lượng (Quantity) | Đơn giá (Unit Price) (VND) | Thành tiền (Amount) (VND) |
+| --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) = (4) x (5) |
+| 1 | Chuột không dây Logitech M221 | Cái | 10 | 350.000 | 3.500.000 |
+| 2 | Bàn phím cơ RK68 | Cái | 5 | 890.000 | 4.450.000 |
+| 3 | Màn hình LG 24MP60G | Cái | 3 | 2.750.000 | 8.250.000 |
+| 5 | Tai nghe Sony WH-CH520 | Cái | 8 | 1.290.000 | 10.320.000 |
+| 6 | Ổ cứng SSD Kingston 1TB | Cái | 12 | 1.850.000 | 12.950.000 |
+| 5 | Loa Bluetooth JBL Go 3 | Cái | 1 | 790.000 | 9.480.000 |
+| | | | | | |
+| | | | | | |
+| | Cộng tiền hàng (Total amount): | | | | 48.950.000 |
+| Thuế suất GTGT (VAT rate): | 10% | Tiền thuế GTGT (VAT amount): | | | 4.895.000 |
+| | Tổng cộng tiền thanh toán (Grand total): | | | | 53.845.000 |

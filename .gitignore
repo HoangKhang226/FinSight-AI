@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+
+# Data & Storage (large files)
+data/raw/
+data/processed/
+storage/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PaddleOCR outputs
+output/
+log_output/
+inference_results/
+
+# Scratch & Test
+scratch/

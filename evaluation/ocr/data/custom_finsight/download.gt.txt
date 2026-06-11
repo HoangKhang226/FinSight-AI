@@ -1,0 +1,31 @@
+Đơn vị:
+Địa chỉ:
+Mẫu số B 01 - DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22/12/2014 của Bộ Tài chính)
+
+BẢNG CÂN ĐỐI KẾ TOÁN
+Tại ngày...... tháng...... năm.........
+
+Đơn vị tính: ............
+
+| CHỈ TIÊU | Mã số | Thuyết minh | Số cuối kỳ (3) | Số đầu kỳ (4) |
+| --- | --- | --- | --- | --- |
+| A - TÀI SẢN NGẮN HẠN | 100 | | | |
+| I. Tiền và các khoản tương đương tiền | 110 | | | |
+| 1. Tiền | 111 | | | |
+| 2. Các khoản tương đương tiền | 112 | | | |
+| II. Đầu tư tài chính ngắn hạn | 120 | | | |
+| 1. Chứng khoán kinh doanh | 121 | | | |
+| 2. Dự phòng giảm giá chứng khoán kinh doanh (*) | 122 | | | |
+| 3. Đầu tư nắm giữ đến ngày đáo hạn | 123 | | | |
+| III. Các khoản phải thu ngắn hạn | 130 | | | |
+| 1. Phải thu ngắn hạn của khách hàng | 131 | | | |
+| 2. Trả trước cho người bán ngắn hạn | 132 | | | |
+| 3. Phải thu nội bộ ngắn hạn | 133 | | | |
+| 4. Phải thu theo tiến độ kế hoạch hợp đồng xây dựng | 134 | | | |
+| 5. Phải thu về cho vay ngắn hạn | 135 | | | |
+| 6. Phải thu ngắn hạn khác | 136 | | | |
+| 7. Dự phòng phải thu ngắn hạn khó đòi (*) | 137 | | | |
+| 8. Tài sản thiếu chờ xử lý | 139 | | | |
+| IV. Hàng Tồn kho | 140 | | | |

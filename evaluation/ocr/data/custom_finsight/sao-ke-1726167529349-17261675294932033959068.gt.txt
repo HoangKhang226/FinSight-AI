@@ -1,0 +1,32 @@
+TECHCOMBANK
+
+SAO KÊ TÀI KHOẢN THẺ TÍN DỤNG
+Credit Card Account Statement
+
+Ông/Bà: NGUYEN VAN A
+Mr/Ms
+Địa chỉ: ABCDE
+Address
+
+Số tài khoản thẻ tín dụng: XXXXXXXXXXXXXXXX
+Credit Account Number
+Hạn mức tín dụng (VND): 30.000.000
+Credit Limit
+
+Ngày sao kê: 10/03/2013
+Statement Date
+Số dư kỳ trước (VND): -5.000.000
+Previous Balance
+Số dư cuối kỳ (VND): -6.000.000
+Statement Balance
+Giá trị thanh toán tối thiểu (VND): 300.000
+Minimum Payment
+Vui lòng thanh toán trước: 26/03/2013
+Payment due date
+
+Số dư kỳ trước (VND) Previous Balance: -5.000.000
+
+| Ngày giao dịch Transaction Date | Ngày cập nhật hệ thống Post Date | Số tiền giao dịch gốc Original Amount | Ghi nợ (VND) Debit | Ghi có (VND) Credit | Diễn giải giao dịch Transaction Description |
+| --- | --- | --- | --- | --- | --- |
+| 08/11/2012 | 12/11/2012 | 1,540,000 VND | 1,540,000 | | Giao dịch thanh toán/Purchase - Số Thẻ/Card No: 4...9435 THE FACE SHOP -VND H HA NOI VN |
+| 08/11/2012 | 14/11/2012 | 828,000 VND | 828,000 | | Giao dịch thanh toán/Purchase - Số Thẻ/Card No: 4...9435 CUA HANG YVER VINCOM BA HA NOI VN |

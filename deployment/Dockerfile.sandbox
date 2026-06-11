@@ -1,0 +1,11 @@
+FROM python:3.11-slim
+
+# Sandbox cách ly cho Python Code Interpreter Agent
+# Không cài thêm gì ngoài numpy/pandas để giới hạn attack surface
+
+WORKDIR /sandbox
+
+RUN pip install --no-cache-dir numpy pandas
+
+# Không có network access — chỉ nhận code qua stdin, trả kết quả qua stdout
+CMD ["python", "-u", "-"]
