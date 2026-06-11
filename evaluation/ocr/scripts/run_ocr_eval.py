@@ -113,6 +113,12 @@ def main():
             latency = time.time() - t0
             
             prediction = (extraction.markdown or "").strip()
+            
+            # Ghi output ra file để sau này dễ dàng debug/kiểm tra nếu điểm thấp
+            pred_path = img_path.with_name(img_path.name + ".pred.md")
+            with open(pred_path, 'w', encoding='utf-8') as f:
+                f.write(prediction)
+
             cer = calculate_cer(ground_truth, prediction)
             wer = calculate_wer(ground_truth, prediction)
             sim = fuzz.ratio(ground_truth, prediction) / 100.0
