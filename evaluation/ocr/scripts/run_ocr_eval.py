@@ -100,7 +100,13 @@ def main():
         if img_id in results:
             return None # Bỏ qua nếu đã chấm điểm
             
-        gt_path = img_path.with_suffix('.gt.txt')
+        # Tìm file Ground Truth với 2 trường hợp phổ biến:
+        # 1. Bỏ đuôi ảnh (vd: ảnh.jpg -> ảnh.gt.txt)
+        # 2. Giữ nguyên đuôi ảnh (vd: ảnh.jpg -> ảnh.jpg.gt.txt)
+        gt_path_1 = img_path.with_suffix('.gt.txt')
+        gt_path_2 = img_path.with_name(img_path.name + '.gt.txt')
+        
+        gt_path = gt_path_1 if gt_path_1.exists() else gt_path_2
         if not gt_path.exists():
             return f"⚠️  Bỏ qua {img_id} (Không có Ground Truth .gt.txt)"
             
