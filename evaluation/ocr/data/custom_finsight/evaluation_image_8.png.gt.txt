@@ -1,0 +1,57 @@
+**BÁO CÁO LƯU CHUYỂN TIỀN TỆ**
+Từ 01/01/2023 đến 31/12/2023
+*(Theo phương pháp gián tiếp)*
+Đơn vị tính: VND
+
+| Chỉ tiêu | Ghi chú | 31-12-2023 | 31-12-2022 |
+|---|---|---|---|
+| **I. Lưu chuyển tiền từ hoạt động kinh doanh** | | | |
+| **1. Lợi nhuận trước thuế** | | **618 226 672 975** | **609 542 216 979** |
+| **2. Điều chỉnh cho các khoản** | | **197 004 847 087** | **187 254 954 797** |
+| - Khấu hao tài sản cố định | | 101 488 766 568 | 97 348 550 212 |
+| - Các khoản dự phòng | | (7 632 839 263) | - |
+| - (Lãi)/ lỗ chênh lệch tỷ giá hối đoái chưa thực hiện | | 2 097 905 362 | 12 971 627 329 |
+| - (Lãi)/ lỗ từ hoạt động đầu tư | | (6 765 391 310) | (7 663 856 093) |
+| - Chi phí lãi vay | | 107 816 405 730 | 84 598 633 349 |
+| **3. Lợi nhuận (lỗ) từ hoạt động kinh doanh trước thay đổi vốn lưu động** | | **815 231 520 062** | **796 797 171 776** |
+| (Tăng)/ giảm các khoản phải thu | | (735 700 168 534) | (1 170 839 640 985) |
+| (Tăng)/ giảm hàng tồn kho | | (305 350 958 738) | (268 911 251 688) |
+| Tăng/ (giảm) các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập phải nộp) | | (165 907 114 131) | 105 207 939 267 |
+| (Tăng)/ giảm chi phí trả trước | | (1 441 503 526) | (1 527 003 776) |
+| Tiền lãi vay đã trả | | (107 172 150 186) | (100 146 765 513) |
+| Thuế thu nhập doanh nghiệp đã nộp | | (72 150 893 888) | (114 046 933 930) |
+| Tiền thu khác từ hoạt động kinh doanh | | 6 975 457 702 | 37 786 153 768 |
+| Tiền chi khác từ hoạt động kinh doanh | | (2 785 866 815) | (202 270 100 219) |
+| **Lưu chuyển tiền thuần từ hoạt động kinh doanh** | | **(568 301 678 054)** | **(917 950 431 300)** |
+| **II. Lưu chuyển tiền từ hoạt động đầu tư** | | | |
+| 1. Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác | | (128 330 766 149) | (119 747 986 796) |
+| 2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác | | 53 861 115 | 64 763 891 |
+| 3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác | | - | - |
+| 4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác | | | |
+| 5. Tiền chi đầu tư góp vốn vào đơn vị khác | | | |
+| 6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác | | | |
+| 7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia | | 14 143 896 842 | 12 598 899 329 |
+| **Lưu chuyển tiền thuần từ hoạt động đầu tư** | | **(114 133 008 192)** | **(107 084 323 576)** |
+| **III. Lưu chuyển tiền từ hoạt động tài chính** | | | |
+| 1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu | | - | 1 011 260 990 829 |
+| 2. Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành | | | |
+| 3. Tiền vay ngắn hạn, dài hạn nhận được | | 4 198 561 958 075 | 4 057 019 484 882 |
+| 4. Tiền chi trả nợ gốc vay | | (3 393 427 526 291) | (4 052 467 972 641) |
+| 5. Tiền chi trả nợ thuê tài chính | | | |
+| 6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu | | (116 237 095 000) | (144 924 595 000) |
+| **Lưu chuyển tiền thuần từ hoạt động tài chính** | | **688 897 336 784** | **870 887 908 070** |
+| **Lưu chuyển tiền thuần trong kỳ** | | **6 462 650 538** | **(154 146 846 806)** |
+| **Tiền và tương đương tiền đầu kỳ** | | **795 984 374 181** | **950 131 220 987** |
+| Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ | | | |
+| **Tiền và tương đương tiền cuối kỳ** | | **802 447 024 719** | **795 984 374 181** |
+
+Lập biểu
+Vũ Thị Ngọc
+
+Kế toán trưởng
+Hoàng Trung
+
+Lập ngày 19 tháng 01 năm 2024
+Tổng Giám đốc
+CÔNG TY CỔ PHẦN BÓNG ĐÈN PHÍCH NƯỚC RẠNG ĐÔNG
+Nguyễn Đoàn Thăng

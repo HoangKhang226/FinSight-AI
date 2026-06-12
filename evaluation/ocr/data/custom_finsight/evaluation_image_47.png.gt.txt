@@ -1,0 +1,23 @@
+**CHƯƠNG 2**
+**PHƯƠNG PHÁP CHỨNG TỪ KẾ TOÁN**
+
+**Mục tiêu của chương**
+*Trang bị những kiến thức cơ bản về chứng từ kế toán, lập chứng từ kế toán và luân chuyển chứng từ kế toán, cụ thể:*
+- Khái niệm phương pháp chứng từ kế toán
+- Hình thức biểu hiện của phương pháp chứng từ kế toán
+- Ý nghĩa và tính pháp lý của chứng từ kế toán
+- Phân loại chứng từ kế toán
+- Các yếu tố của chứng từ kế toán
+- Trình tự luân chuyển chứng từ kế toán
+
+**PHẦN 1: LÝ THUYẾT**
+**2.1. Khái niệm phương pháp chứng từ kế toán**
+Phương pháp chứng từ kế toán là phương pháp kế toán được sử dụng để phản ánh, kiểm tra các nghiệp vụ kinh tế tài chính phát sinh và thực sự hoàn thành theo thời gian, địa điểm phát sinh nghiệp vụ đó phục vụ công tác kế toán và công tác quản lý.
+
+Hay nói cách khác, Phương pháp chứng từ kế toán là phương pháp thông tin và kiểm tra về trạng thái và sự biến động của đối tượng hạch toán kế toán cụ thể nhằm phục vụ kịp thời cho lãnh đạo nghiệp vụ và làm căn cứ phân loại, ghi sổ và tổng hợp kế toán.
+
+Chứng từ kế toán là phương pháp đầu tiên quan trọng của hệ thống phương pháp hạch toán kế toán.
+
+*Ý nghĩa phương pháp chứng từ kế toán:*
+- Chứng từ là phương pháp thích hợp nhất với sự đa dạng và biến động không ngừng của đối tượng hạch toán kế toán nhằm sao chụp nguyên hình tình trạng và sự vận động của các đối tượng này.
+- Hệ thống bản chứng từ hoàn chỉnh là căn cứ pháp lý cho việc bảo vệ tài sản và xác minh tính hợp pháp trong việc giải quyết các mối quan hệ kinh tế pháp lý thuộc đối tượng hạch toán kế toán, kiểm tra và thanh tra hoạt động sản xuất kinh doanh.

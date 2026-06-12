@@ -1,0 +1,39 @@
+**W-4**
+Department of the Treasury
+Internal Revenue Service
+**Employee's Withholding Certificate**
+Complete Form W-4 so that your employer can withhold the correct federal income tax from your pay.
+Give Form W-4 to your employer.
+Your withholding is subject to review by the IRS.
+OMB No. 1545-0074
+**2020**
+
+| **Step 1:**<br>**Enter Personal Information** | (a) First name and middle initial | Last name | (b) Social security number |
+|---|---|---|---|
+| | Address | | Does your name match the name on your social security card? If not, to ensure you get credit for your earnings, contact SSA at 800-772-1213 or go to www.ssa.gov. |
+| | City or town, state, and ZIP code | | |
+| | (c) Single or Married filing separately<br>Married filing jointly (or Qualifying widow(er))<br>Head of household (Check only if you're unmarried and pay more than half the costs of keeping up a home for yourself and a qualifying individual.) | | |
+
+Complete Steps 2-4 ONLY if they apply to you; otherwise, skip to Step 5. See page 2 for more information on each step, who can claim exemption from withholding, when to use the online estimator, and privacy.
+
+**Step 2:**
+**Multiple Jobs or Spouse Works**
+Complete this step if you (1) hold more than one job at a time, or (2) are married filing jointly and your spouse also works. The correct amount of withholding depends on income earned from all of these jobs.
+Do **only one** of the following.
+(a) Use the estimator at www.irs.gov/W4App for most accurate withholding for this step (and Steps 3-4); or
+(b) Use the Multiple Jobs Worksheet on page 3 and enter the result in Step 4(c) below for roughly accurate withholding; or
+(c) If there are only two jobs total, you may check this box. Do the same on Form W-4 for the other job. This option is accurate for jobs with similar pay; otherwise, more tax than necessary may be withheld.
+
+TIP: To be accurate, submit a 2020 Form W-4 for all other jobs. If you (or your spouse) have self-employment income, including as an independent contractor, use the estimator.
+
+Complete Steps 3-4(b) on Form W-4 for only **ONE** of these jobs. Leave those steps blank for the other jobs. (Your withholding will be most accurate if you complete Steps 3-4(b) on the Form W-4 for the highest paying job.)
+
+| **Step 3:**<br>**Claim Dependents** | If your income will be $200,000 or less ($400,000 or less if married filing jointly):<br>Multiply the number of qualifying children under age 17 by $2,000 $ ______<br>Multiply the number of other dependents by $500 $ ______<br>Add the amounts above and enter the total here | 3 | $ |
+|---|---|---|---|
+| **Step 4 (optional):**<br>**Other Adjustments** | **(a) Other income (not from jobs).** If you want tax withheld for other income you expect this year that won't have withholding, enter the amount of other income here. This may include interest, dividends, and retirement income | 4(a) | $ |
+| | **(b) Deductions.** If you expect to claim deductions other than the standard deduction and want to reduce your withholding, use the Deductions Worksheet on page 3 and enter the result here | 4(b) | $ |
+| | **(c) Extra withholding.** Enter any additional tax you want withheld each **pay period** | 4(c) | $ |
+
+| **Step 5:**<br>**Sign Here** | Under penalties of perjury, I declare that this certificate, to the best of my knowledge and belief, is true, correct, and complete.<br><br>**Employee's signature** (This form is not valid unless you sign it.) | **Date** |
+|---|---|---|
+| **Employers Only** | Employer's name and address | First date of employment | Employer identification number (EIN) |

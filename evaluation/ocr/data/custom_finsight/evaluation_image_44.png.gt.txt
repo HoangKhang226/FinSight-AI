@@ -1,0 +1,14 @@
+# Payslip Template in Excel
+
+| Company Logo | Company Name<br>Address | | |
+|---|---|---|---|
+| **Payslip For the Month of August 2019** | | | |
+| **Employee Name:** | Rajesh Gowda | **Paid Days:** | 30 |
+| **Gender:** | Male | **LOP Days:** | 0 |
+| **Earnings** | **Amount** | **Deductions** | **Amount** |
+| Basic | 10,000 | Salary Advance | 1,000 |
+| OT Hours | 50 | Other Deducttions | - |
+| OT Rate | 75 | | |
+| OT Payment | 3750 | | |
+| **Total Payment** | **13,750** | **Total Dedctions** | **1,000** |
+| **Net Pay:** | **12,750** | | |

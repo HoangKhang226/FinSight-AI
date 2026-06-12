@@ -1,0 +1,45 @@
+**HÓA ĐƠN GIÁ TRỊ GIA TĂNG**
+*(VAT INVOICE)*
+Mẫu số *(Form)*: **01GTKT0/003**
+Ký hiệu *(Serial)*: **LT/21E**
+Số *(No.)*: **0075020**
+
+Ngày *(Date)*: 15/09/2021
+*(BẢN THỂ HIỆN CỦA HÓA ĐƠN ĐIỆN TỬ)*
+*(EINVOICE DISPLAY VERSION)*
+
+Họ tên người mua hàng *(Customer's name)*: Nguyễn Thy Xuân
+Tên đơn vị *(Company's name)*: CÔNG TY CỔ PHẦN VCCORP
+Mã số thuế *(Tax indentification number)*: 0101871229
+Địa chỉ *(Address)*: Số 01, phố Nguyễn Huy Tưởng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội
+Hình thức thanh toán *(Payment method)*: TM/CK
+Thời hạn thanh toán *(Payment term)*: Ngày thanh toán *(Due date)*:
+
+| STT *(No.)* | Tên hàng hóa, dịch vụ *(Description)* | Đơn vị tính *(Unit)* | Số lượng *(Quantity)* | Đơn giá *(Unit price)* | Thành tiền chưa có thuế GTGT *(Amount excluding VAT)* | Thuế suất *(VAT rate)* |
+|---|---|---|---|---|---|---|
+| 1 | CHUOI LABA DA LAT | Kg | 0,588 | 18.952,06 | 11.144 | 5% |
+| 2 | BANH MANDU HAI SAN CJ BIBIGO 350G | Gói | 1 | 48.181,82 | 48.182 | 10% |
+| 3 | S BANH MY HOA CUC 300G SAPO | Cái | 1 | 59.090,91 | 59.091 | 10% |
+| 4 | XA LACH OAKLEAF XANH TC VIETGAP 200GR | Bịch | 1 | 12.857,14 | 12.857 | 5% |
+| 5 | BANH SU KEM CC 25G*6 | Hộp | 2 | 15.454,55 | 30.910 | 10% |
+| 6 | HA CAO CAU TRE MINI 500G | Gói | 1 | 70.909,09 | 70.909 | 10% |
+| 7 | CA VIEN RAU CU TVS 500G | Gói | 1 | 46.272,73 | 46.273 | 10% |
+| 8 | BANH MI NGU COC 300G | Cái | 1 | 14.545,45 | 14.545 | 10% |
+| 9 | CA ROT BAC | Kg | 0,7 | 17.904,76 | 12.533 | 5% |
+| 10 | KIM CHI CAI THAO 100GR | Bịch | 2 | 11.727,27 | 23.455 | 10% |
+| 11 | MA DUI GA OGARI | Kg | 0,386 | 72.284,73 | 27.902 | 5% |
+| 12 | ECH LAMSACH DB | Kg | 0,472 | 133.333,33 | 62.933 | 5% |
+| 13 | THIT BA ROI HEO | Kg | 0,464 | 155.143,68 | 71.987 | 5% |
+| | Theo phiếu thanh toán (ticket) số 003006159 ngày 15/09/2021 | | | | | |
+| | **Cộng tiền hàng chưa có thuế GTGT** *(Total amount excluding VAT)*: | | | | **492.721** | |
+
+| Tổng hợp *(In Summary)* | Thuế suất *(VAT rate)* | Trị giá chưa có thuế GTGT *(Amount excluding VAT)* | Tiền thuế GTGT *(Amount VAT)* | Trị giá thanh toán *(Amount including VAT)* |
+|---|---|---|---|---|
+| Hàng hóa không phải kê khai và tính thuế GTGT | | | | |
+| Hàng hóa không chịu thuế GTGT | | | | |
+| Hàng hóa chịu thuế suất: | 0% | | | |
+| Hàng hóa chịu thuế suất: | 5% | 199.356 | 9.968 | 209.324 |
+| Hàng hóa chịu thuế suất: | 10% | 293.365 | 29.335 | 322.700 |
+| **Tổng cộng tiền thanh toán** *(Total of payment)* | | **492.721** | **39.303** | **532.024** |
+
+**Số tiền viết bằng chữ** *(Amount in words)*: Năm trăm ba mươi hai nghìn không trăm hai mươi tư đồng

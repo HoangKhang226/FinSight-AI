@@ -1,0 +1,28 @@
+# Mẫu số 09 - Khế ước nhận nợ ngắn hạn tại CTY TNHH Bao Bi Tịnh Tiến.
+
+## KHẾ UỚC NHẬN NỢ NGẮN HẠN
+
+Số: LD10....../0......  
+
+Ngày 25/11/2010  
+
+1. Chúng tôi, Công ty TNHH bao bi Tịnh Tiến, đề cập đến bản hợp đồng tín dụng hạn mức số 555.10.651.212196.TD ngày 11/02/2010 ("Hợp đồng Tin dụng") giữa Công ty TNHH bao bi Tịnh Tiến với tư cách là bên vay ("Ben vay") và Ngân hàng Thương mại Cổ phần Quân đội - Chi nhánh Quảng Ngãi với tư cách là ngân hàng ("Ngân hàng"). Các thuật ngữ viết hoa được sử dụng trong Khế ước Nhận nợ này có cùng ý nghĩa như được định nghĩa trong Hợp đồng Tin dụng.  
+
+2. Khế ước Nhận nợ này được lập theo Mục 2 của Các Điều kiện và Điều khoản Chung ký ngày 14/11/2009 giữa Bên vay và Ngân hàng cho Khoản vay được Ngân hàng chấp thuận và giải ngân với nội dung như sau:  
+
+(a) Số tiền giải ngân của Khoản vay: 220.000.000 VND (Bằng chữ: Hai trăm hai mươi triệu đồng)  
+
+(b) Mục đích sử dụng Khoản vay: Khoản vay sẽ được Bên vay sử dụng vào mục đích sau: theo bảng kê giải ngân định kèm  
+
+(c) Phương thức giải ngân:  
+- Chuyển khoản: 100%  
+
+(d) Lãi suất áp dụng cho Khoản vay. Lãi suất thay đổi điều chỉnh vào ngày làm việc sau 3 tháng kể từ ngày giải ngân đầu tiên theo lãi suất tiết kiệm từ dân cư kỳ hạn 12 tháng trả lãi sau và lãi suất biến %/năm. Lãi cho vay kỳ đầu tiên: %/năm. Lãi suất trong mọi thời điểm không thấp hơn 20%/năm.  
+
+(f) Ngày giải ngân: 18/02/2010  
+
+(g) Ngày đáo hạn: 25/11/2010  
+
+3. Bên vay nhận nợ và cam kết thanh toán không huỷ ngang và vô điều kiện Khoản vay cho Ngân hàng cùng với tiền lãi và phí phát sinh nếu có từ ngày Ngân hàng giải ngân Khoản vay đến ngày hoàn trả toàn bộ Khoản vay đó bằng cùng loại tiền tệ theo các điều kiện và điều khoản trong Hợp đồng Tin dụng.  
+
+GVHD: Nhóm SV TH:

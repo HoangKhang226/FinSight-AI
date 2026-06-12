@@ -1,0 +1,47 @@
+**HÓA ĐƠN GIÁ TRỊ GIA TĂNG**
+*(VAT INVOICE)*
+**Bản thể hiện của hóa đơn điện tử**
+*(Electronic invoice display)*
+Ngày *(date)* tháng *(month)* năm *(year)*
+Ký hiệu *(Serial)*: 1C23TOD
+Số *(No.)*:
+
+Đơn vị bán hàng *(Issued)*: **CÔNG TY TNHH ODAY VIỆT NAM**
+Mã số thuế *(Tax code)*: **0110516929**
+Địa chỉ *(Address)*: **Số nhà 19 ngách 34 ngõ 250 đường Nguyễn Xiển, Phường Hạ Đình, Quận Thanh Xuân, Thành Phố Hà Nội, Việt Nam.**
+Điện thoại *(Phone number)*: **0916169161**
+Số tài khoản *(Account No.)*: Tại
+
+Họ tên người mua hàng *(Buyer name)*:
+Tên đơn vị *(Company name)*: Nguyễn Thị Tâm
+Mã số thuế *(Tax code)*: 2700601779
+Địa chỉ *(Address)*: Phố Bắc Thịnh, P. Ninh Sơn, TP. Ninh Bình, T. Ninh Bình
+Hình thức thanh toán *(Payment method)*: TM/CK
+Số tài khoản *(Account No.)*:
+Ghi chú *(Note)*:
+
+| STT *(No.)* | Tên hàng hóa, dịch vụ *(Description)* | ĐVT *(Unit)* | Số lượng *(Quantity)* | Đơn giá *(Unit price)* | Thành tiền *(Amount)* |
+|---|---|---|---|---|---|
+| **1** | **2** | **3** | **4** | **5** | **6 = 4 x 5** |
+| 1 | Cây lau nhà xoắn (FZ-05) | Cây | 5 | 139.000 | 695.000 |
+| 2 | Cây lau nhà xoắn (FZ-02) | Cây | 5 | 119.000 | 595.000 |
+| 3 | Bộ Chổi lau nhà 360 độ Spin mop | Bộ | 5 | 150.000 | 750.000 |
+| 4 | Bộ chổi lau nhà 360 độ Elephant mop | Bộ | 5 | 155.000 | 775.000 |
+| 5 | Ô (dù) cầm tay, cán bằng sắt, kiểu ống lồng, tán bằng vải sợi polyester, loại gấp gọn, độ mở rộng đường kính 69 cm, NSX: Shenzhen Zhuang Housewares Trading Co., Ltd, kí hiệu: 2310-ODCL-50, mới 100% | Chiếc | 5 | 25.000 | 125.000 |
+| 6 | Dụng cụ gạt nước, dùng để lau kính, dùng trong gia đình, chất liệu bằng nhựa, KT: (117x49) cm (+/10%), không có tên thương hiệu, NSX: Shenzhen Zhuang Housewares Trading Co., Ltd, mới 100% | Chiếc | 5 | 9.500 | 47.500 |
+| 7 | Ô (dù) cầm tay, không phải kiểu ống lồng, cán bằng sắt, tay cầm bằng nhựa, tán bằng vải sợi polyester, dài 85 cm, độ mở rộng đường kính 105 cm, không có tên thương hiệu, mới 100% | Chiếc | 5 | 25.000 | 125.000 |
+| | | | | **Cộng tiền hàng** *(Total amount)*: | **3.112.500** |
+| **Thuế suất GTGT** *(VAT rate)*: **8%** | | | | **Tiền thuế GTGT** *(VAT amount)*: | **249.000** |
+| | | | | **Tổng cộng tiền thanh toán** *(Total payment)*: | **3.361.500** |
+
+**Số tiền viết bằng chữ** *(Amount in words)*: Ba triệu ba trăm sáu mươi mốt nghìn năm trăm đồng
+
+Người mua hàng *(Buyer)*
+Người bán hàng *(Seller)*
+Signature valid
+Ký bởi
+Ký ngày
+
+*(Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn)*
+Đơn vị cung cấp dịch vụ Hóa đơn điện tử: Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel), MST: 0100109106
+Tra cứu hóa đơn điện tử tại Website: https://vinvoice.viettel.vn/utilities/invoice-search . Mã số bí mật: . Mã của cơ quan thuế:

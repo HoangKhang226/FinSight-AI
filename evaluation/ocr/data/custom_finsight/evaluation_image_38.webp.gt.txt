@@ -1,0 +1,23 @@
+**Hoa don ban hang**
+
+Ma don hang: AIB00023
+Thu ngan: THAI PHUONG
+TG: 10/1/2026 12:17
+Khu vuc 1 - Ban 1
+Khach: Khach le
+
+| Don gia | SL | VAT | T.Tien |
+|---|---|---|---|
+| Hu tieu | | | |
+| 30.000 | 1 | 0 % | 30.000 |
+
+| VAT | 0 |
+|---|---|
+| TONG SO TIEN | 30.000 |
+| TONG TIEN THANH TOAN | 30.000 |
+| DA THANH TOAN | 30.000 |
+| CON NO | 0 |
+| NO CU | 0 |
+| TONG NO | 0 |
+
+Diem thanh vien 0

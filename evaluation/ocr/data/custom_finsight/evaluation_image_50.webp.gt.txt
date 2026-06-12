@@ -1,0 +1,29 @@
+**Relyon Softech Ltd**
+**Rajajinagar**
+**Payslip for the month of Jan/2025**
+
+| Emp ID | 1 | Employee Name: | Neethu Varghese |
+|---|---|---|---|
+| PF. No. | KAMUM006414800000012 | ESI No. | 7236182736 |
+| NOD | 31 | NDP | 31 |
+| DOJ | 01/04/2024 | Designation | Accountant |
+| Department | | A/c No | |
+| PAN | BYRPN9235E | DOB | 12/12/1990 |
+| UAN | 382738682380 | LOP Days | 0 |
+| Aadhar No | | Remarks | |
+
+| Earnings | Amount | Deductions | Amount |
+|---|---|---|---|
+| BASIC | 41,000.00 | PF | 1,800.00 |
+| DA | 12,000.00 | ESI | 600.00 |
+| HRA | 14,000.00 | PT | 200.00 |
+| Conveyance | 8,000.00 | | |
+| Special | 9,000.00 | | |
+| Travel | 10,000.00 | | |
+| **Total** | **94,000.00** | **Total** | **2,600.00** |
+
+**Net Pay 91,400.00**
+**In Words Rupees Ninety One Thousand Four Hundred Only**
+
+**Signature**
+Relyon Softech Ltd

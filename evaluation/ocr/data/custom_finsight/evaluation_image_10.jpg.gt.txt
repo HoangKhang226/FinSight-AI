@@ -1,0 +1,31 @@
+CÔNG TY CỔ PHẦN ĐIỆN LỰC DẦU KHÍ NHƠN TRẠCH 2
+Ấp 3, Xã Phước Khánh, Huyện Nhơn Trạch
+Tỉnh Đồng Nai, CHXHCN Việt Nam
+
+**MẪU SỐ B 03-DN**
+Ban hành theo Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+**BÁO CÁO LƯU CHUYỂN TIỀN TỆ**
+*Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019*
+Đơn vị: VND
+
+| CHỈ TIÊU | Mã số | Năm nay | Năm trước |
+|---|---|---|---|
+| **I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH** | | | |
+| **1. Lợi nhuận trước thuế** | **01** | **797.388.249.459** | **823.828.825.705** |
+| **2. Điều chỉnh cho các khoản:** | | | |
+| Khấu hao tài sản cố định | 02 | 690.277.501.502 | 694.042.769.081 |
+| Các khoản dự phòng | 03 | - | (23.281.042.069) |
+| Lãi chênh lệch tỷ giá hối đoái | 04 | (16.003.726.985) | (12.822.497.822) |
+| Lãi từ hoạt động đầu tư | 05 | (18.046.486.394) | (42.143.534.344) |
+| Chi phí lãi vay | 06 | 87.817.040.732 | 104.764.750.280 |
+| Các khoản điều chỉnh khác | 07 | (37.000.000.000) | (1.101.102.307) |
+| **3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động** | **08** | **1.504.432.578.314** | **1.543.288.168.524** |
+| Thay đổi các khoản phải thu | 09 | 1.100.798.748.286 | (727.604.239.184) |
+| Thay đổi hàng tồn kho | 10 | (41.176.480.413) | (1.566.199.774) |
+| Thay đổi các khoản phải trả | 11 | (626.681.228.397) | 692.396.258.693 |
+| Thay đổi chi phí trả trước | 12 | 132.632.920.743 | 163.526.704.679 |
+| Tiền lãi vay đã trả | 14 | (91.566.389.412) | (105.410.443.590) |
+| Thuế thu nhập doanh nghiệp đã nộp | 15 | (38.974.379.485) | (24.574.028.176) |
+| Tiền chi khác cho hoạt động kinh doanh | 17 | (21.987.445.618) | (20.034.081.981) |
+| **Lưu chuyển tiền thuần từ hoạt động kinh doanh** | **20** | **1.917.478.324.018** | **1.520.022.139.191** |

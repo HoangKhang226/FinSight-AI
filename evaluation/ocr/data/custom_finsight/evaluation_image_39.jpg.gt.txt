@@ -1,0 +1,38 @@
+Company Address
+Phone: 555-555-555555
+Fax: 123-456-49165955
+Write Your Website here
+Write Your Email Address Here
+
+**Company**
+**Pay Slip**
+Company Logo Here
+
+**Name of Employee:** ______________________
+**Period of Payment:** ______________________
+
+| **Scale of Payment:** | | | |
+|---|---|---|---|
+| **Description** | **Days** | **Description** | **Amount ($)** |
+| Standard Working Days in a Month | ___ | Basic Pay for a Month | 000000.00 |
+| Standard Working Hours on Daily Basis | ___ | Daily Pay Rate | 0000.00 |
+| Training Rate | ___ | Pay Rate Per Hour | 000.00 |
+| **Computation of Gross Salary to be Paid for This Month:** | | | |
+| Hours worked by employee & holidays | ___ | Salary to be paid on daily basis | 0000.000 |
+| Hours of overtime | ___ | Salary of overtime working | 000.00 |
+| Overtime in holidays | ___ | Salary for holiday overtime | 000.00 |
+| Hours of total night shifts | ___ | Pay for total night hours | 000.00 |
+| Total paid leaves | ___ | Salary for all paid leaves | 000.00 |
+| | | Total of Gross Salary | 0000000.00 |
+| **Break Up of Deductions for the Month** | | | |
+| | | Contribution for social security | |
+| | | Contribution for health insurance | |
+| | | Contribution for housing insurance | |
+| | | Amount of withholding tax | |
+| | | Total Deductions | 00000.00 |
+| | | **Net Salary** | **000000.00** |
+
+**Prepared By:**
+**Received BY:**
+
+Pay Slip Template

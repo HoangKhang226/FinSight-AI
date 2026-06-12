@@ -1,0 +1,62 @@
+# Commerce Bank
+## Member FDIC
+### 1000 Walnut
+#### Kansas City MO 64106-3686
+
+**Jane Customer**  
+**1234 Anywhere Dr.**  
+**Small Town, MO 12345-6789**  
+
+| Primary Account Number: | 000009752 |
+|-------------------------|-----------|
+| Statement Date:         | June 5, 2003 |
+| Page Number:            | 1          |
+
+## Bank Statement
+If you have any questions about your statement,  
+please call us at 816-234-2265  
+
+### CONNECTIONS CHECKING Account # 000009752
+#### Account Summary Account # 000009752
+
+| Description | Date Credited | Amount |
+|-------------|---------------|---------|
+| Beginning Balance on May 3, 2003 | $7,126.11   |
+| Deposits & Other Credits | +$3,615.08    |
+| ATM Withdrawals & Debits | -$20.00      |
+| VISA Check Card Purchases & Debits | -$0.00     |
+| Withdrawals & Other Debits | -$0.00      |
+| Checks Paid | -$200.00     |
+| Ending Balance on June 5, 2003 | $10,521.19   |
+
+### Deposits & Other Credits Account # 000009752
+
+| Description | Ref Nbr: | Date Credited | Amount |
+|-------------|----------|---------------|---------|
+| Deposit     | 130012345 | 05-15         | $3,615.08 |
+
+### Total Deposits & Other Credits
+
+|$3,615.08|
+
+### ATM Withdrawals & Debits Account # 000009752
+
+| Description | Tran Date | Date Paid | Amount |
+|-------------|-----------|-----------|---------|
+| ATM Withdrawal | 1000 Walnut St M119 Kansas City MO 00005678 | 05-18     | 05-19   | $20.00 |
+
+### Total ATM Withdrawals & Debits
+
+|$20.00|
+
+### Checks Paid Account # 000009752
+
+| Date Paid | Check Number | Amount | Reference Number |
+|-----------|--------------|--------|------------------|
+| 05-12     | 1001         | $75.00 | 00012576589      |
+| 05-18     | 1002         | $30.00 | 00036547854      |
+| 05-24     | 1003         | $200.00| 00094613547      |
+
+### Total Checks Paid
+
+|$305.00|

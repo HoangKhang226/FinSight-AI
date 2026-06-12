@@ -1,0 +1,52 @@
+# Hotel Bill Receipt Template Example
+
+## Starlight Resort Hotel
+### Hotel Bill Receipt
+
+#### Hotel Information
+- **Hotel Name:** Starlight Resort Hotel  
+- **Address:** 123 Oceanview Drive  
+- **Phone:** (555)-123-4567  
+- **Email:** reservations@starlightresort.com  
+- **Website:** starlightresort.com  
+
+#### Guest Information
+- **Name:** Brooklyn Jansen  
+- **Contact Details:** brooklyn.jansen@example.com  
+- **Room Number:** [uncertain: ]  
+
+#### Receipt Details
+- **Receipt Number:** 45678XYZ  
+- **Date Issued:** 12/20/20XX  
+- **Check-In Date:** 12/15/20XX  
+- **Check-Out Date:** 12/20/20XX  
+
+#### Itemized Charges
+
+| Date | Description | Amount | Credit | Balance |
+|------|-------------|--------|--------|---------|
+| 12/15/20XX - 12/19/20XX | Room charge | $1,000.00 | $ | $1,000.00 |
+| 12/16/20XX | Meals | $250.00 | $25.00 | $1,225.00 |
+| 12/16/20XX | Amenities | $100.00 | $ | $1,325.00 |
+| 12/16/20XX | Parking fee | $20.00 | $ | $1,345.00 |
+|       |            | $200.00 | $ | $1,545.00 |
+
+#### Additional Charges
+
+| Date | Description | Amount | Credit | Balance |
+|------|-------------|--------|--------|---------|
+| 12/15/20XX - 12/19/20XX | Service Charges | $15.00 | $ | $15.00 |
+| 12/20/20XX | Gratuities | $22.00 | $10.00 | $27.00 |
+|       | Other | $ | $ | $27.00 |
+
+#### Total
+- **Subtotal:** $1,614.00  
+- **Taxes or Fees:** $55.00  
+- **Grand Total:** $1,669.00  
+
+#### Payment Details
+- **Payment Status:** Paid / Unpaid  
+- **Payment Method:** Credit Card  
+
+#### Notes
+Thank you for choosing Starlight Resort Hotel. If you have any questions about your bill, please contact us at (555) 123-4567 or reservations@starlightresort.com.
