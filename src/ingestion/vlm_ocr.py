@@ -25,10 +25,24 @@ class VLMOCRProcessor:
             "construct valid Markdown tables, and never hallucinate data."
         )
 
-    def _encode_image(self, image_path: Path) -> str:
-        """Chuyển ảnh sang base64 để gửi vào prompt của LangChain."""
+    def _encode_image(self, image_path: Path) -> tuple[str, str]:
+        """Chuyển ảnh sang base64 và xác định mime type. Tự động convert WebP sang JPEG cho Ollama."""
+        from PIL import Image
+        import io
+        
+        ext = image_path.suffix.lower()
+        if ext == '.webp':
+            # Ollama Vision không hỗ trợ tốt WebP, nên convert sang JPEG
+            img = Image.open(image_path)
+            if img.mode != 'RGB':
+                img = img.convert('RGB')
+            buffered = io.BytesIO()
+            img.save(buffered, format="JPEG")
+            return "image/jpeg", base64.b64encode(buffered.getvalue()).decode('utf-8')
+            
+        mime_type = "image/png" if ext == ".png" else "image/jpeg"
         with open(image_path, "rb") as image_file:
-            return base64.b64encode(image_file.read()).decode('utf-8')
+            return mime_type, base64.b64encode(image_file.read()).decode('utf-8')
 
     def extract(self, image_path: str | Path, system_prompt: str | None = None, ocr_blocks: list | None = None) -> str:
         """
@@ -38,7 +52,7 @@ class VLMOCRProcessor:
         path = Path(image_path)
         logger.info(f"Đang bóc tách ảnh bằng VLM: {path.name}")
         
-        base64_image = self._encode_image(path)
+        mime_type, base64_image = self._encode_image(path)
         prompt = system_prompt or self.default_prompt
         
         # Tạo message theo chuẩn LangChain cho multi-modal
@@ -47,7 +61,7 @@ class VLMOCRProcessor:
                 {"type": "text", "text": prompt},
                 {
                     "type": "image_url",
-                    "image_url": {"url": f"data:image/jpeg;base64,{base64_image}"},
+                    "image_url": {"url": f"data:{mime_type};base64,{base64_image}"},
                 },
             ]
         )
