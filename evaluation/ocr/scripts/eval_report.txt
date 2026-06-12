@@ -1,0 +1,55 @@
+BÁO CÁO ĐÁNH GIÁ CHI TIẾT TỪNG ẢNH
+================================================================================
+[custom_finsight/12-2.jpg] | CER: 0.284 | WER: 0.369 | Sim: 73.50%
+[custom_finsight/ChatGPT Image 20_52_06 10 thg 6, 2026.png] | CER: 0.067 | WER: 0.096 | Sim: 82.50%
+[custom_finsight/Gemini_Generated_Image_my6gbzmy6gbzmy6g.png] | CER: 0.187 | WER: 0.372 | Sim: 70.80%
+[custom_finsight/download (1).jpg] | CER: 0.932 | WER: 0.973 | Sim: 50.40%
+[custom_finsight/Gemini_Generated_Image_7v6m927v6m927v6m.png] | CER: 0.235 | WER: 0.372 | Sim: 68.50%
+[custom_finsight/BCDKT-rang-dong-1.jpg] | CER: 0.166 | WER: 0.399 | Sim: 90.40%
+[custom_finsight/cq5dam.web.1280.1280.jpeg] | CER: 0.191 | WER: 0.342 | Sim: 81.30%
+[custom_finsight/download.jpg] | CER: 0.564 | WER: 0.784 | Sim: 63.70%
+[custom_finsight/congly-vn_co-hay-khong-viec-ngan-hang-quoc-te-vib-giai-quyet-no-khong-thoa-dang-hinh-anh21515399867789599055.jpg] | CER: 0.075 | WER: 0.107 | Sim: 94.00%
+[custom_finsight/Gemini_Generated_Image_oohmzwoohmzwoohm (1).png] | CER: 0.175 | WER: 0.294 | Sim: 72.00%
+[custom_finsight/Hinh-9-1-Bang-can-doi-ke-toan-rut-gon-CTD-VCG.png] | CER: 0.380 | WER: 0.268 | Sim: 76.40%
+[custom_finsight/IMG_4443.jpg.jpg] | CER: 0.150 | WER: 0.251 | Sim: 90.10%
+[custom_finsight/bao_cao_tai_chinh(chu_day).png] | CER: 0.014 | WER: 0.023 | Sim: 95.90%
+[custom_finsight/download.png] | CER: 0.763 | WER: 0.869 | Sim: 44.20%
+[custom_finsight/images.jpg] | CER: 0.770 | WER: 0.854 | Sim: 34.80%
+[custom_finsight/images.png] | CER: 0.902 | WER: 1.000 | Sim: 17.40%
+[custom_finsight/sao-ke-tai-khoan-ngan-hang-2.png] | CER: 0.277 | WER: 0.264 | Sim: 72.60%
+[custom_finsight/sao-ke.jpg] | CER: 0.212 | WER: 0.279 | Sim: 37.70%
+[custom_finsight/sao_ke_ngan_hang.png] | CER: 0.043 | WER: 0.055 | Sim: 97.40%
+[custom_finsight/unnamed.jpg] | CER: 0.030 | WER: 0.082 | Sim: 96.80%
+[custom_finsight/image (10).jpg] | CER: 0.277 | WER: 0.560 | Sim: 55.70%
+[custom_finsight/https___imgix-proxy.n8s.jp_DSXMZO0874521024102016EE8001-PN1-6.jpg] | CER: 0.166 | WER: 0.714 | Sim: 88.80%
+[custom_finsight/image (1).jpg] | CER: 0.341 | WER: 0.485 | Sim: 70.60%
+[custom_finsight/Hotel-Receipt.png] | CER: 0.114 | WER: 0.171 | Sim: 74.20%
+[custom_finsight/hotel-receipt (1).png] | CER: 0.344 | WER: 0.486 | Sim: 48.20%
+[custom_finsight/Shot-2024-09-14-at-19.24.43@2x.jpg] | CER: 0.162 | WER: 0.255 | Sim: 80.40%
+[custom_finsight/IC-Compilation-Report-Template_WORD.png] | CER: 0.004 | WER: 0.016 | Sim: 99.00%
+[custom_finsight/68747470733a2f2f692e696d6775722e636f6d2f354333427268592e706e67.png] | CER: 0.289 | WER: 0.451 | Sim: 81.70%
+[custom_finsight/IC-Hotel-Bill-Receipt-Template-Example.png] | CER: 0.098 | WER: 0.407 | Sim: 86.10%
+[custom_finsight/consolidation-example-04.png] | CER: 0.151 | WER: 0.213 | Sim: 60.50%
+[custom_finsight/image (2).jpg] | CER: 0.341 | WER: 0.485 | Sim: 70.60%
+[custom_finsight/image (3).jpg] | CER: 0.503 | WER: 0.586 | Sim: 68.30%
+[custom_finsight/image (4).jpg] | CER: 0.438 | WER: 0.682 | Sim: 66.70%
+[custom_finsight/image (5).jpg] | CER: 0.256 | WER: 0.516 | Sim: 64.60%
+[custom_finsight/image (6).jpg] | CER: 0.697 | WER: 0.923 | Sim: 62.50%
+[custom_finsight/image (7).jpg] | CER: 0.446 | WER: 0.760 | Sim: 62.40%
+[custom_finsight/image (8).jpg] | CER: 0.416 | WER: 1.062 | Sim: 56.70%
+[custom_finsight/image (9).jpg] | CER: 0.207 | WER: 0.500 | Sim: 35.10%
+[custom_finsight/image copy.png] | CER: 0.260 | WER: 0.706 | Sim: 76.50%
+[custom_finsight/image.jpg] | CER: 0.109 | WER: 0.238 | Sim: 63.00%
+[custom_finsight/images (1).png] | CER: 0.244 | WER: 0.531 | Sim: 69.50%
+[custom_finsight/image.png] | CER: 0.225 | WER: 0.609 | Sim: 82.90%
+[custom_finsight/images copy.jpg] | CER: 0.403 | WER: 0.626 | Sim: 65.40%
+[custom_finsight/large.png] | CER: 0.484 | WER: 0.547 | Sim: 72.20%
+[custom_finsight/pic_post373_detail05.png] | CER: 0.114 | WER: 0.842 | Sim: 86.00%
+
+================================================================================
+TỔNG KẾT ĐÁNH GIÁ
+================================================================================
+Tổng số file đã hoàn thành : 45
+CER trung bình toàn tập    : 0.300
+WER trung bình toàn tập    : 0.476
+Độ tương đồng (Fuzz Ratio) : 70.18%
